@@ -45,9 +45,17 @@ export default {
 
 <style scoped>
 .about {
-  padding: 2rem;
   max-width: 700px;
-  margin: 0 auto;}
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+  margin-bottom: 4rem;
+  color: #333;
+  text-align: center;
+}
 
 h2 {
   font-size: 2rem;
