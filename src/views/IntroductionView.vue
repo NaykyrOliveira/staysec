@@ -119,7 +119,7 @@ h2 {
 p {
   font-size: 1.2rem;
   line-height: 1.5;
-  text-align: center;
+  text-align: justify;
   margin-bottom: 1rem;
 }
 
@@ -129,6 +129,7 @@ ul {
   line-height: 1.5;
   text-align: left;
   font-size: 1.2rem;
+  text-align: justify;
 }
 
 @media (max-width: 768px) {

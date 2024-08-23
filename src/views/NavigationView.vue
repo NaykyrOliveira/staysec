@@ -151,6 +151,7 @@ export default {
     list-style-type: disc;
     padding-left: 2rem;
     font-size: 1.2rem;
+    text-align: justify;
   }
 
 @media (max-width: 768px) {

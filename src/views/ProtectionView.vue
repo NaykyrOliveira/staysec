@@ -137,11 +137,13 @@ export default {
     list-style-type: disc;
     padding-left: 2rem;
     font-size: 1.2rem;
+    text-align: justify;
   }
 
   ol {
     margin-left: 2rem;
     font-size: 1.2rem;
+    text-align: justify;
   }
 
   code {
