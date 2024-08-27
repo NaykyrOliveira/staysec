@@ -28,6 +28,7 @@
     color: #fff;
     padding: 1rem 2rem;
     text-align: center;
+    margin-top: 6rem;
   }
   
   .footer-content {
