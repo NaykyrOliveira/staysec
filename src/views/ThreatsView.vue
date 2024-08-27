@@ -59,10 +59,10 @@ export default {
   .threats {
     padding: 2rem;
     max-width: 1200px;
-    margin: 5rem auto; /* Remove a margem superior */
+    margin: 0 auto; 
     position: relative;
-    min-height: 100vh; /* Garante que a área de conteúdo ocupe a altura total da tela */
-    overflow: hidden; /* Garante que o layout flutuante não afete o contêiner */
+    min-height: 100vh; 
+    overflow: hidden; 
   }
 
   .threat {
@@ -75,6 +75,7 @@ export default {
     margin-bottom: 4rem;
     color: #333;
     text-align: center;
+    margin-top: 6rem;
   }
 
   .threat:nth-of-type(odd) {

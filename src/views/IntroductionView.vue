@@ -42,7 +42,7 @@ export default {
 .introduction {
   padding: 2rem;
   max-width: 1200px;
-  margin: 5% auto;
+  margin: 0 auto;
   position: relative;
   overflow: hidden; 
 }
@@ -58,6 +58,7 @@ export default {
   color: #333;
   text-align: center;
   float: left;
+  margin-top: 6rem;
 }
 
 .step:nth-of-type(odd) {

@@ -69,7 +69,7 @@ export default {
   .navigation {
     padding: 2rem;
     max-width: 1200px;
-    margin: 5rem auto;
+    margin: 0 auto;
     position: relative;
     min-height: 100vh;
     overflow: hidden;
@@ -85,6 +85,7 @@ export default {
     margin-bottom: 4rem;
     color: #333;
     text-align: center;
+    margin-top: 6rem;
   }
 
   .step:nth-of-type(odd) {

@@ -55,11 +55,12 @@ export default {
   margin-bottom: 4rem;
   color: #333;
   text-align: center;
+  margin-bottom: 6rem;
 }
 
 h2 {
   font-size: 2rem;
-  margin-top: 1rem;
+  margin-top: 6rem;
 }
 
 p {
