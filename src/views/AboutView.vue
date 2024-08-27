@@ -52,7 +52,6 @@ export default {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   position: relative;
-  margin-bottom: 4rem;
   color: #333;
   text-align: center;
   margin-bottom: 6rem;
